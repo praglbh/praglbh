@@ -6,7 +6,9 @@
 ⚡ Fun fact: My favorite feature is HOT Reload.
 
 <div align="center">
+   
    ![Alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBpemxwbzBsbng1ZW94OGl5bTVkN2NmdzcxaW5hNnBxZTE5OXBoYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)
+   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&size=26&duration=3000&pause=1000&center=true&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Hey%2C+I+am+Praglbh!" alt="Typing SVG" />
   </a>
