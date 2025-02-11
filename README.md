@@ -5,7 +5,7 @@
 💬 Ask me about Flutter, Dart, C++, SQL, Python.<br>
 ⚡ Fun fact: My favorite feature is HOT Reload.
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: right;">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTl0b2J5MnMzNHNwOXp5ZGZuMDc4aDZubWYzNHU0aHN0NXExbmU2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200" height="200" />
 </div>
 
