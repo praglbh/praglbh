@@ -21,6 +21,8 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+![Alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBpemxwbzBsbng1ZW94OGl5bTVkN2NmdzcxaW5hNnBxZTE5OXBoYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/withshady_) 
