@@ -11,15 +11,15 @@
   </a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-<table>
+<table style="border: none;">
   <tr>
-    <td colspan="2" style="font-size: 100px;">
+    <td colspan="2" style="text-align: center; font-size: 50px;">
       <b>💫 About Me:</b>
     </td>
   </tr>
   <tr>
     <!-- Left column: About Me content with larger text -->
-    <td style="width: 50%; font-size: 81px;">
+    <td style="width: 50%; vertical-align: top; font-size: 30px;">
       🔭 I’m currently working on a Flutter-based Weather Forecast application.<br>
       👯 I’m looking to collaborate on a CRUD app.<br>
       🌱 I’m currently learning Advanced Flutter and Dart features.<br>
@@ -35,6 +35,7 @@
     </td>
   </tr>
 </table>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/withshady_) 
