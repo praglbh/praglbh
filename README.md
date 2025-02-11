@@ -11,31 +11,23 @@
   </a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-<table style="border: none;">
+<table>
   <tr>
-    <td colspan="2" style="text-align: center; font-size: 50px;">
-      <b>💫 About Me:</b>
+    <td>
+      <h1>💫 About Me:</h1>
+      <ul>   
+      <li> 🔭 I’m currently working on a Flutter-based Weather Forecast application.</li>
+      <li>👯 I’m looking to collaborate on a CRUD app.</li>
+      <li>🌱 I’m currently learning Advanced Flutter and Dart features.</li>
+      <li>💬 Ask me about Flutter, Dart, C++, SQL, Python.</li>
+      <li>⚡ Fun fact: My favorite feature is HOT Reload.</li>
+      </ul>
     </td>
-  </tr>
-  <tr>
-    <!-- Left column: About Me content with larger text -->
-    <td style="width: 50%; vertical-align: top; font-size: 30px;">
-      🔭 I’m currently working on a Flutter-based Weather Forecast application.<br>
-      👯 I’m looking to collaborate on a CRUD app.<br>
-      🌱 I’m currently learning Advanced Flutter and Dart features.<br>
-      💬 Ask me about Flutter, Dart, C++, SQL, Python.<br>
-      ⚡ Fun fact: My favorite feature is HOT Reload.
-    </td>
-    <!-- Right column: GIFs -->
-    <td style="width: 50%; text-align: center; vertical-align: middle;">
-      <!-- Insert GIF -->
-      <div style="display: flex; justify-content: center; gap: 20px;">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTl0b2J5MnMzNHNwOXp5ZGZuMDc4aDZubWYzNHU0aHN0NXExbmU2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="400" height="400" />
-      </div>
+    <td>
+       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTl0b2J5MnMzNHNwOXp5ZGZuMDc4aDZubWYzNHU0aHN0NXExbmU2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="400" height="400" />
     </td>
   </tr>
 </table>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/withshady_) 
