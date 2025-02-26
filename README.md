@@ -16,11 +16,12 @@
     <td>
       <h1>💫 About Me:</h1>
       <ul>   
-      <li> 🔭 I’m currently working on a Flutter-based Weather Forecast application.</li>
-      <li>👯 I’m looking to collaborate on a CRUD app.</li>
-      <li>🌱 I’m currently learning Advanced Flutter and Dart features.</li>
-      <li>💬 Ask me about Flutter, Dart, C++, SQL, Python.</li>
-      <li>⚡ Fun fact: My favorite feature is HOT Reload.</li>
+          <li>🔭 I’m currently working on Building scalable and feature-rich Android apps.</li>
+          <li>👯 I’m looking to collaborate on Android projects that challenge my skills.</li>
+          <li>🤝 I’m looking for help with staying updated with latest android trends.</li>
+          <li>🌱 I’m currently learning Kotlin, Jetpack Compose, JAVA.</li>
+          <li>💬 Ask me about Java, Kotlin, SQL, C++.</li>
+          <li>⚡ Fun fact: When I'm not coding, you can find me on FC24.</li>
       </ul>
     </td>
     <td>
