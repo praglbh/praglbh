@@ -7,7 +7,7 @@
 <!-- Tech carousel -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&center=true&size=26&duration=2000&pause=1000&width=435&lines=Full-Stack+Developer;MERN+Stack+%7C+Next.js+%7C+Fast+API;Flutter+Enthusiast;Always+expanding+my+tech-stack" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&center=true&size=26&duration=2000&pause=1000&width=435&lines=Android+Developer;JAVA+%7C+KOTLIN+%7C+FIREBASE;JAVA+Enthusiast;Always+expanding+my+tech-stack" alt="Typing SVG" />
   </a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
